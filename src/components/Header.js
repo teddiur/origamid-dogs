@@ -12,7 +12,7 @@ export const Header = () => {
         </Link>
 
         <Link className={styles.login} to="login">
-          Login
+          Login/Criar
         </Link>
       </nav>
     </header>
